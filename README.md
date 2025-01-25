@@ -151,7 +151,7 @@ Copy
 Predicted Price for a house with 2000 sqft, 3 bedrooms, and 2 bathrooms: $350000.00
 # Screenshot of the Output:
 
-"D:\c drive data 22-12-2024\OneDrive\Pictures\Screenshots\Screenshot 2024-09-07 190813.png"
+![Screenshot 2024-09-07 190813](https://github.com/user-attachments/assets/33b536f3-0cc9-4246-895c-0aad0e01d1fd)
 
 # Evaluation
 After training the model, it is evaluated using the following metrics:
